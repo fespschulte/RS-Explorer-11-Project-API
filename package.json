@@ -1,0 +1,14 @@
+{
+  "name": "11-api",
+  "version": "1.0.0",
+  "description": "API teste",
+  "main": "index.js",
+  "scripts": {
+    "start":"node ./src/server.js"
+  },
+  "author": "Fernando Schulte Pinto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
