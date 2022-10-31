@@ -4,7 +4,8 @@
   "description": "API teste",
   "main": "index.js",
   "scripts": {
-    "start": "node ./src/server.js"
+    "start": "node ./src/server.js",
+    "dev": "nodemon ./src/server.js"
   },
   "author": "Fernando Schulte Pinto",
   "license": "ISC",
